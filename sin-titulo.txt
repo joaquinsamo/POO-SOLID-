@@ -1,0 +1,7 @@
+principios corregidos
+Principio	Problema corregido
+SRP	Separación de responsabilidades
+OCP	Extensión sin modificar clases existentes
+LSP	Sustitución correcta entre clases
+ISP	Interfaces específicas
+DIP	Dependencia de abstracciones y no implementaciones concretas
